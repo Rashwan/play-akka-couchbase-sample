@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe.akka:akka-actor_2.11.0-M3:2.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.11.0-M3" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe:config:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe.akka:akka-kernel_2.11:2.3.12" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe.akka:akka-actor_2.11:2.3.12" level="project" />
+    <orderEntry type="library" name="Maven: com.rashwan.akka.messages:akka-messenger:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivecouchbase:java-wrapper_2.11:0.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivecouchbase:reactivecouchbase-core_2.11:0.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.couchbase.client:couchbase-client:1.4.5" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty:3.5.5.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.jettison:jettison:1.1" level="project" />
+    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.5" level="project" />
+    <orderEntry type="library" name="Maven: net.spy:spymemcached:2.11.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore-nio:4.3" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.6" level="project" />
+    <orderEntry type="library" name="Maven: com.ning:async-http-client:1.8.14" level="project" />
+    <orderEntry type="library" name="Maven: com.codahale.metrics:metrics-core:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.reactivecouchbase:json-lib:0.4-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:17.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.3" level="project" />
+  </component>
+</module>
